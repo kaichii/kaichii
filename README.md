@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node、React、Flutter、Golang、Deno.
-
+一名前端开发爱好者，喜欢炫酷的界面效果。目前使用的技术栈：React.js、Typescript、GraphQL、Node.js、Flutter 和 MongoDB。
 
 <!--
 **kaichii/kaichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning Node、React、Flutter、Golang、Deno.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
