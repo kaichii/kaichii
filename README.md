@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-一名前端开发爱好者，目前使用的技术栈：React.js、Typescript、GraphQL、Node.js、Flutter 和 MongoDB。
+前端开发爱好者，目前使用的技术栈：React.js、Typescript、GraphQL、Node.js、Flutter 和 MongoDB。
 
 <!--
 **kaichii/kaichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
